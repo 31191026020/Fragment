@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+        <item>https://muahoatuoi.vn/uploads/noidung/images/hoadep/nguon-goc-dac-diem-hoa-huong-duong.jpg</item>
+        <item>https://tuongvyflorist.com/wp-content/uploads/2018/03/1-1.jpg</item>
+        <item>https://cmtgarden.com/wp-content/uploads/2020/05/hoa-huong-duong.jpg</item>
+    </string-array>
+    <string-array name="animals">
+        <item>https://i.pinimg.com/474x/bd/42/96/bd4296f94f3814cef220dae0dc8951cd--vivi-sehun-child.jpg</item>
+        <item>https://pbs.twimg.com/media/EXYnU8HU0AAGeup.jpg</item>
+        <item>https://pbs.twimg.com/media/E_trGIBUcAAWnxJ.jpg</item>
+    </string-array>
+    <string-array name="foods">
+        <item>https://toplist.vn/images/800px/-509567.jpg</item>
+        <item>https://cdn.tgdd.vn/Files/2022/01/25/1412805/cach-nau-pho-bo-nam-dinh-chuan-vi-thom-ngon-nhu-hang-quan-202201250313281452.jpg</item>
+        <item>https://caubacantho.files.wordpress.com/2018/05/hu-tieu-kho-sa-dec.jpg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/flowers</item>
+        <item>@array/animals</item>
+        <item>@array/foods</item>
+    </array>
+</resources>
